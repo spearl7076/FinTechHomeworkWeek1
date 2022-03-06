@@ -1,7 +1,7 @@
 # Divvy Homes Case Study
 # ![alt text](https://mma.prnewswire.com/media/1594334/Divvy_Homes_Logo.jpg?p=twitter)
 
-## Digital version of the rent-to-own Model.  Divvy Homes makes homeownership accessible to everyone.
+## Digital version of the rent-to-own Model.  Divvy Homes increases the accessiblity of homeownership.
 * The Company was founded in 2017
 * Restrictive mortgage requirements following the Housing Collapse had made it increasingly tough for middle-class Americans to buy a house.  Founders Adena Hefets Alex Klarfeld and Nick Clark recognized the opportunity and set out to provide another way for those who lacked the free cashflow or ability to obtain a mortgage to purchase a home.
 * Divvy purchases the home, enters into a three year lease with the consumer, and then provides consumer the option to either purchase the home or walk away at the maturity of the lease contract.
