@@ -5,6 +5,9 @@
 * The Company was founded in 2017
 * Founders include: Adena Hefets, Alex Klarfeld, Brian Ma, Nicholas Clark
 * Restrictive
+* Divvy is a privately held company that has received Series A, B, C, D and some Debt Financing
+* Divvy has raised a total of $1.2B in funding over 7 Rounds.  The latest occurring on October 12, 2021.
+* 
 
 
 
