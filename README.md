@@ -16,7 +16,15 @@ What Specific financial problem is the company or project trying to solve?
 
 Who is the company's intended customer?  Is there any information about the market size of this set of customers?  What solution does this company offer that their competitors do not or cannot offer?
 - The intended customers are middle-class Americans who have either not yet built up the available credit or free cashflow that would allow them to immediately purchase a home.
-- 
+- 35% of US consumers have FICO Scores lower than 675 and 16% hae a score below 580.  According to ICE Mortgage Technology, the average FICO score for home buyers with FHA loans was 677 for the 6mth period ending in September 2021.  A minimum credit score of 580 along with a 10% down payment are required for a FHA Loan, and that's the low end of the totem pole.  
+- Divvy's mkt size is ~17-37mm consumers who have a credit score below 580 or between 580-675 (Assuming a US population size of 329.5mm and an average aged home buyer of 25-45 which makes up 44% of the population with 53% of them listed as married).
+- Divvy only requires an application approval process, a 2% downpayment, and proof of two month's rent.  Everything else from taxes and insurance to closing costs is covered by Divvy.  This simplifies the homebuying process for the customer and puts them on the first step towards purchasing a home.
+
+Which technologies are they currently using, and how are they implementing them?
+- Credit verification algorithm (?)
+- Online applications rather than meeting with a banker
+- One stop shop soup to nuts purchasing of the home....Divvy real estate agents will guide the customer through the home buying and negotiation process
+- Divvy requests the customer to make both a rent and a "savings" payment each month to build equity
 
 
 
@@ -26,3 +34,5 @@ Who is the company's intended customer?  Is there any information about the mark
 * [Divvy Homes Webiste](https://www.divvyhomes.com/)
 * [The Future Of Real Estate: Fintech 50 2021](https://www.forbes.com/sites/margheritabeale/2021/06/08/the-future-of-real-estate-fintech-50-2021/?sh=1a58b9ed2c31)
 * [Crunchbase - Divvy Homes](https://www.crunchbase.com/organization/divvy-homes)
+* [Experian Credit Data](https://www.experian.com/blogs/ask-experian/credit-education/score-basics/675-credit-score/#:~:text=35%25%20of%20consumers%20have%20FICO,check%20your%20FICO%C2%AE%20Score.)
+* [US Population Numbers](https://www.statista.com/statistics/241488/population-of-the-us-by-sex-and-age/)
