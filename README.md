@@ -1,5 +1,5 @@
 # Divvy Homes Case Study
-# ![alt text](https://mma.prnewswire.com/media/1594334/Divvy_Homes_Logo.jpg?p=twitter)
+# [![alt text](https://mma.prnewswire.com/media/1594334/Divvy_Homes_Logo.jpg?p=twitter)](https://youtu.be/1sQaatYs7bE)
 
 ## Digital version of the rent-to-own Model.  Divvy Homes increases the accessiblity of homeownership.
 * The Company was founded in 2017
@@ -12,7 +12,7 @@
 
 ## Business Activities
 What Specific financial problem is the company or project trying to solve?
-- It gives potential creditworthy consumers the means to purcahse a home sooner and with less friction costs.
+- It gives potential creditworthy consumers the means to purcahse a home sooner and with less initial friction costs.
 
 Who is the company's intended customer?  Is there any information about the market size of this set of customers?  What solution does this company offer that their competitors do not or cannot offer?
 - The intended customers are middle-class Americans who have either not yet built up the available credit or free cashflow that would allow them to immediately purchase a home.
