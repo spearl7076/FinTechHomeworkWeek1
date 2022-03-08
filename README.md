@@ -10,7 +10,7 @@
 * Divvy is a privately held company that has received Series A, B, C, D and some Debt Financing
 * Divvy has raised a total of $1.2B in funding over 7 Rounds.  The latest occurring on October 12, 2021.
 
-## Business Activities
+## Business Activities:
 What Specific financial problem is the company or project trying to solve?
 - It gives potential creditworthy consumers the means to purcahse a home sooner and with less initial friction costs.
 
@@ -21,12 +21,42 @@ Who is the company's intended customer?  Is there any information about the mark
 - Divvy only requires an application approval process, a 2% downpayment, and proof of two month's rent.  Everything else from taxes and insurance to closing costs is covered by Divvy.  This simplifies the homebuying process for the customer and puts them on the first step towards purchasing a home.
 
 Which technologies are they currently using, and how are they implementing them?
-- Credit verification algorithm (?)
+- Credit verification algorithm
 - Online applications rather than meeting with a banker
-- One stop shop soup to nuts purchasing of the home....Divvy real estate agents will guide the customer through the home buying and negotiation process
-- Divvy requests the customer to make both a rent and a "savings" payment each month to build equity
+- Home Search Interface with MLS listings
+- Digitally connecting customer with a local realtor
+- All of the above is accessible via their website - [Divvy Homes](https://www.divvyhomes.com/)
 
 
+## Landscape:
+
+What domain of the financial industry is the company in?
+- Mortgage/Real Estate
+
+What have been the major trends and innovations of this domain over the last 5-10yrs?
+- Zillow, Redfin
+- Rocket Mortgage, Ally bank online mtg approval
+
+What are the other major companies in this domain?
+- Zillow, Redfin, Trulia, Cadre, Roofstock
+
+
+## Results
+What has been the business impact of this company so far?
+What are some of the core metrics that companies in this domain use to measure success?  How is your company performing, based on these metrics?
+How is your company performing relative to compeitors in the same domain?
+
+## Recommendations
+If you were to advise the company, what products or services would you suggest they offer?  (This could something that a competitor offers, or use your imagination!)
+- Create an app for people to use on their phones
+- Offer existing homeowners the ability to list their properties on your webiste.
+
+Why do you think that offering this product or service would benefit the company?
+- If existing homeowners have the ability to list their properties on Divvy's webiste it could lead to exclusive offerings on homes and reduce the costs for both the buyer and seller that are associated with involving other agents in the process.
+
+What technologies would this additional product or service utilize?
+
+Why are these technologies appropriate for your solution?
 
 
 
