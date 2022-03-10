@@ -34,8 +34,11 @@ What domain of the financial industry is the company in?
 - Mortgage/Real Estate
 
 What have been the major trends and innovations of this domain over the last 5-10yrs?
-- Zillow, Redfin
-- Rocket Mortgage, Ally bank online mtg approval
+- Technology has made the real estate market more accessible to customers
+- Accessiblity of information has streamlined the mortgage process
+- Transparency of transactions have lowered fees
+- Digital Lending has increased the accessiblity of loan origination
+
 
 What are the other major companies in this domain?
 - Zillow, Redfin, Trulia, Cadre, Roofstock
@@ -43,20 +46,38 @@ What are the other major companies in this domain?
 
 ## Results
 What has been the business impact of this company so far?
-What are some of the core metrics that companies in this domain use to measure success?  How is your company performing, based on these metrics?
+- It's too early to tell because Divvy is still considered a start-up.
+
+What are some of the core metrics that companies in this domain use to measure success?  
+- Acquisition Metrics:  how many new customers are being onboarded
+- Referrals
+- Revenues
+
+How is your company performing, based on these metrics?
+- Divvy is still a start-up, but over the past 5yrs their available markets have increased from 4 to 16.
+- Since their last round of funding, their cumulative qualified applicants and monthly homes closed have both grown 3x (PRNewswire.com)
+-Divvy Homes' market share has doubled since the end of 2020 (PRNewswire.com)
+
 How is your company performing relative to compeitors in the same domain?
+- Divvy is still a start up in the Domain, but is rapidly gaining market share.
 
 ## Recommendations
 If you were to advise the company, what products or services would you suggest they offer?  (This could something that a competitor offers, or use your imagination!)
 - Create an app for people to use on their phones
 - Offer existing homeowners the ability to list their properties on your webiste.
+- Help with Personal Finance
 
 Why do you think that offering this product or service would benefit the company?
 - If existing homeowners have the ability to list their properties on Divvy's webiste it could lead to exclusive offerings on homes and reduce the costs for both the buyer and seller that are associated with involving other agents in the process.
+- The majority of Divvy's revenues come from customer rental payments.  If customers fall into financial disarray they're more likely to default.  Setting up a branch that helps their customers maintain/improve their financial standing would be in their best interest.
 
 What technologies would this additional product or service utilize?
+- Mobile platforms
+- Financial analytics
 
 Why are these technologies appropriate for your solution?
+- The mobile platforms offer easier access and useability for the customer
+- Financial analytics using personal and finacial mkt data to help customers save more and improve upon or maintain their current financial standing.
 
 
 
@@ -66,3 +87,4 @@ Why are these technologies appropriate for your solution?
 * [Crunchbase - Divvy Homes](https://www.crunchbase.com/organization/divvy-homes)
 * [Experian Credit Data](https://www.experian.com/blogs/ask-experian/credit-education/score-basics/675-credit-score/#:~:text=35%25%20of%20consumers%20have%20FICO,check%20your%20FICO%C2%AE%20Score.)
 * [US Population Numbers](https://www.statista.com/statistics/241488/population-of-the-us-by-sex-and-age/)
+* [PRNewswire.com](https://www.prnewswire.com/news-releases/divvy-homes-closes-200-million-series-d-to-broaden-access-to-homeownership-301355103.html#:~:text=Divvy%20Homes%20now%20operates%20in,tripling%20over%20the%20past%20year.)
