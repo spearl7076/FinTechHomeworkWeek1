@@ -56,7 +56,8 @@ What are some of the core metrics that companies in this domain use to measure s
 How is your company performing, based on these metrics?
 - Divvy is still a start-up, but over the past 5yrs their available markets have increased from 4 to 16.
 - Since their last round of funding, their cumulative qualified applicants and monthly homes closed have both grown 3x (PRNewswire.com)
--Divvy Homes' market share has doubled since the end of 2020 (PRNewswire.com)
+- Divvy Homes' market share has doubled since the end of 2020 (PRNewswire.com)
+
 
 How is your company performing relative to compeitors in the same domain?
 - Divvy is still a start up in the Domain, but is rapidly gaining market share.
